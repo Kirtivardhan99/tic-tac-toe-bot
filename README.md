@@ -1,4 +1,4 @@
-# A Tic Tac Toe Bot 
+ A Tic Tac Toe Bot 
 
 ![tictactoe](https://user-images.githubusercontent.com/29514438/89706167-c3120200-d980-11ea-8fdc-b3593c004ea4.png)
 
@@ -33,5 +33,6 @@ run ```python Showdown_Minimax_vs_RL.py```
 ## To Try
 - [x] Minimax Algorithm
 - [x] Temporal Difference Learning
-- [ ] Q Learning
-- [ ] Genetic Algorithms
+- [ ] Q Le- [ ] Genetic Algorithms
+KAYVEE has been here
+
